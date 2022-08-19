@@ -1,4 +1,5 @@
 ### Hi there 👋
+### 🔭 I’m currently a student at Sierra College as a Computer Science Major
 
 <!--
 **Codingboy65/Codingboy65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
